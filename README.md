@@ -24,7 +24,7 @@ My website : https://amriikhda.vercel.app
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mybezen&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="mybezen" /></p>
 
-<p><img align="center" src="![mybezen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mybezen&theme=tokyonight&hide_border=true)" alt="mybezen" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mybezen&theme=tokyonight&hide_border=true" alt="mybezen" /></p>
 
 <picture>
   <source
