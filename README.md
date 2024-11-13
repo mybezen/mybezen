@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI & Ci/Cd & design patterns**
 
-- 👯 I’m looking to collaborate on [Ecommerce Backend]([https://github.com/MooudMohammady/endrun](https://github.com/MooudMohammady/Ecommerce-Backend))
+- 👯 I’m working on project with STIKOM BALI at [ MASJIDVERSE ]([https://github.com/mybezen/endrun](https://github.com/mybezen/masjidverse))
 
 - 💬 Ask me about **Reactjs & Next.js & TypeScript & Nodejs**
 
@@ -43,7 +43,3 @@ My website : https://amriikhda.vercel.app
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mybezen&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
-Tue Nov 12 00:42:26 UTC 2024
-Tue Nov 12 00:49:03 UTC 2024
-Wed Nov 13 00:43:04 UTC 2024
-Wed Nov 13 00:50:21 UTC 2024
