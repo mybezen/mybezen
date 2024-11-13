@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI & Ci/Cd & design patterns**
 
-- 👯 I’m working on project with STIKOM BALI at [ MASJIDVERSE ]([https://github.com/mybezen/endrun](https://github.com/mybezen/masjidverse))
+- 👯 I’m working on project with STIKOM BALI at [MASJIDVERSE]([https://github.com/mybezen/endrun](https://github.com/mybezen/masjidverse))
 
 - 💬 Ask me about **Reactjs & Next.js & TypeScript & Nodejs**
 
