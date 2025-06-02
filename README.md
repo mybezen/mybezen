@@ -12,7 +12,7 @@
 - 📫 How to reach me **amriikhda207@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-My website : https://amriikhda.vercel.app
+My portofolio : https://amriikhda.vercel.app
 <p align="left">
 </p>
 
