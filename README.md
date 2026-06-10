@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, my name is M Amri Ikhda Rifa'an</h1>
-<h3 align="center">A frontend developer from Jakarta, Indonesia</h3>
+<h3 align="center">A fullstack developer from Jakarta, Indonesia</h3>
 
 - 🔭 I’m currently working on **Three.js | Reactjs &  Nextjs & Expressjs & Nodejs**
 
 - 🌱 I’m currently learning **AI & Ci/Cd & design patterns**
 
-- 👯 Currently, i work as a team with Peintagons 
+- 👯 Currently, i work as a Fullstack Developer at Indi Technology
 
 - 💬 Ask me about **Reactjs & Next.js & TypeScript & Nodejs**
 
 - 📫 How to reach me **amriikhda207@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-My portofolio : https://amriikhda.vercel.app
+My portofolio : https://amriikhda.my.id
 <p align="left">
 </p>
 
